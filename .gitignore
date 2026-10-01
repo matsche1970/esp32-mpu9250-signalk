@@ -1,0 +1,16 @@
+.pio/
+.vscode/
+*.pyc
+__pycache__/
+.DS_Store
+*.o
+*.a
+*.so
+build/
+*.elf
+*.bin
+*.hex
+.clang_complete
+.gcc-flags.json
+.idea/
+*.code-workspace
